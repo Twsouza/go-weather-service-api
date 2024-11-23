@@ -1,0 +1,8 @@
+with-expecter: true
+packages:
+    go-weather-service-api/internal/services:
+        config:
+            dir: mocks/services
+        interfaces:
+            WeatherService:
+            ZipCodeService:
