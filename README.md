@@ -45,7 +45,7 @@ The application is available through the Cloud Run in the following URL: https:/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Twsouza/go-weather-service-api.git
    cd weather-app
    ```
 
